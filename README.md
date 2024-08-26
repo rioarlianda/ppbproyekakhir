@@ -1,3 +1,7 @@
-# ppb_proyek_akhir
+Aplikasi Booking Tiket Luar Angkasa
 
-A new Flutter project.
+Bahasa Flutter dan Database Firebase
+
+Nama : R Bagus Ario Arlianda Dwiputra
+NIM : A11.2020.12796
+Jurusan : Teknik Informatika
